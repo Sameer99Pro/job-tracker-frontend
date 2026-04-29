@@ -1,0 +1,9 @@
+/* 🔥 Recharts click outline fix */
+.recharts-wrapper *:focus {
+  outline: none !important;
+}
+
+.recharts-sector {
+  outline: none !important;
+  stroke: none !important;
+}
